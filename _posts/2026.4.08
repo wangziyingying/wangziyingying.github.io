@@ -5,15 +5,15 @@ categories: 技术
 tags: [GitHub, 教程]
 ---
 用ida32打开
-![图片描述](https://raw.githubusercontent.com/wangziyingying/wangziyingying.github.io/main/assets/images/"C:\Users\22382\OneDrive\图片\Screenshots\屏幕截图 2026-04-08 204226.png".png)
+![图片描述](https://raw.githubusercontent.com/wangziyingying/wangziyingying.github.io/main/assets/images/屏幕截图 2026-04-08 204226.png".png)
 f5
 进入check函数
-![图片描述](https://raw.githubusercontent.com/wangziyingying/wangziyingying.github.io/main/assets/images/"C:\Users\22382\OneDrive\图片\Screenshots\屏幕截图 2026-04-08 205045.png".png)
+![图片描述](https://raw.githubusercontent.com/wangziyingying/wangziyingying.github.io/main/assets/images/屏幕截图 2026-04-08 205045.png".png)
 双击flag
 看到一串数字
-![图片描述](https://raw.githubusercontent.com/wangziyingying/wangziyingying.github.io/main/assets/images/"C:\Users\22382\OneDrive\图片\Screenshots\屏幕截图 2026-04-08 205159.png".png)
+![图片描述](https://raw.githubusercontent.com/wangziyingying/wangziyingying.github.io/main/assets/images/屏幕截图 2026-04-08 205159.png".png)
 进入enkey函数
-![图片描述](https://raw.githubusercontent.com/wangziyingying/wangziyingying.github.io/main/assets/images/"C:\Users\22382\OneDrive\图片\Screenshots\屏幕截图 2026-04-08 205333.png".png)
+![图片描述](https://raw.githubusercontent.com/wangziyingying/wangziyingying.github.io/main/assets/images/屏幕截图 2026-04-08 205333.png".png)
 解密脚本
 enc = 'd^XSAozQPU^WOBU[VQOATZSE@AZZVOF'
 key = '5055045045055045055045055045055'
