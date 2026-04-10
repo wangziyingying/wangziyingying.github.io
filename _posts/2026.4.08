@@ -5,15 +5,15 @@ categories: 技术
 tags: [GitHub, 教程]
 ---
 用ida32打开
-![图片描述](https://raw.githubusercontent.com/wangziyingying/wangziyingying.github.io/main/屏幕截图%202026-04-08%20204226.png)
+![图片描述](https://raw.githubusercontent.com/wangziyingying/wangziyingying.github.io/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-08%20204226.png)
 f5
 进入check函数
-![图片描述](https://raw.githubusercontent.com/wangziyingying/wangziyingying.github.io/main/屏幕截图%202026-04-08%20205045.png)
+![图片描述](https://raw.githubusercontent.com/wangziyingying/wangziyingying.github.io/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-08%20205045.png)
 双击flag
 看到一串数字
-![图片描述](https://raw.githubusercontent.com/wangziyingying/wangziyingying.github.io/main/屏幕截图%202026-04-08%20205159.png)
+![图片描述](https://raw.githubusercontent.com/wangziyingying/wangziyingying.github.io/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-08%20205159.png)
 进入enkey函数
-![图片描述](https://raw.githubusercontent.com/wangziyingying/wangziyingying.github.io/main/屏幕截图%202026-04-08%20205333.png)
+![图片描述](https://raw.githubusercontent.com/wangziyingying/wangziyingying.github.io/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-04-08%20205333.png)
 解密脚本
 enc = 'd^XSAozQPU^WOBU[VQOATZSE@AZZVOF'
 key = '5055045045055045055045055045055'
